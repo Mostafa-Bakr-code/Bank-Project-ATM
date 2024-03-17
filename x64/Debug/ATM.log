@@ -1,0 +1,7 @@
+﻿  ATM.cpp
+C:\Users\Lenovo\Desktop\Projects\ATM\ATM.cpp(56,37): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Lenovo\Desktop\Projects\ATM\ATM.cpp(62,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Lenovo\Desktop\Projects\ATM\ATM.cpp(190,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Projects\ATM\ATM.cpp(255,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\Projects\ATM\ATM.cpp(222): warning C4715: 'quickWithDrawAmount': not all control paths return a value
+  ATM.vcxproj -> C:\Users\Lenovo\Desktop\Projects\ATM\x64\Debug\ATM.exe
